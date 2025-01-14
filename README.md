@@ -26,7 +26,7 @@ CREATE TABLE users(id INT, name VARCHAR(100));
 CREATE TABLE log(IND INT, text VARCHAR(1000));
 ```
 
-After initialize the database, you can launch IDEA and open the project. Run the server.java using IDEA's run "Server". Then run Main.java using IDEA's run "Run JavaFX".
+After initialize the database, you can launch IDEA and open the project. Set your own JavaFX library. Run the server.java using IDEA's run "Server". Then run Main.java using IDEA's run "Run JavaFX".
 
 ## Functions
 
