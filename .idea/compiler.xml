@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Java Chat Rooms by Sky" target="" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="--module-path &quot;S:\Codes\Java\javafx-sdk-23.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+  </component>
+</project>

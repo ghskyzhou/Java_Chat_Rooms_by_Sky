@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java Chat Rooms by Sky">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_Chat_Rooms_by_Sky</output-path>
+    <root id="archive" name="Java Chat Rooms by Sky.jar">
+      <element id="module-output" name="Java Chat Rooms by Sky" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../javafx-sdk-23.0.1/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../javafx-sdk-23.0.1/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../javafx-sdk-23.0.1/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../javafx-sdk-23.0.1/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../javafx-sdk-23.0.1/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../javafx-sdk-23.0.1/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../javafx-sdk-23.0.1/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../javafx-sdk-23.0.1/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../mysql-connector-j-9.1.0/mysql-connector-j-9.1.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="lib" />
+      <element id="library" level="project" name="mysql-connector-j-9.1.0" />
+    </root>
+  </artifact>
+</component>
