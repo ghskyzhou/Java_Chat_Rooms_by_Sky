@@ -38,5 +38,10 @@ After initialize the database, you can launch IDEA and open the project. Run the
   - Chat Record Storage
   - Search Function
 
+## Test images
+
+![ClientTest](https://github.com/ghskyzhou/Java-Chat-Rooms-by-Sky/blob/main/img/ClientTest.png?raw=true)
+![SearchTest](https://github.com/ghskyzhou/Java-Chat-Rooms-by-Sky/blob/main/img/SearchTest.png?raw=true)
+
 ---
   ### Thank [Jake](https://github.com/littlestarjake) and  [SRQ](https://github.com/SRQhuajiGabaxi) for testing the code!
