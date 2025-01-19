@@ -1,5 +1,6 @@
 # Java Chat Room
 #### Made by Skyzhou
+#### Better view on my blog [Java Chat Room](https://skyzhou.top/2025/01/16/Java_Chat_Room/)
 ---
 **IntelliJ IDEA Project**
 
