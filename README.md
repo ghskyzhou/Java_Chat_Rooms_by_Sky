@@ -41,8 +41,8 @@ After initialize the database, you can launch IDEA and open the project. Set you
 
 ## Test images
 
-<img src="https://github.com/ghskyzhou/Java-Chat-Rooms-by-Sky/blob/main/img/ClientTest.png?raw=true" alt="ClientTest" width="300">
-<img src="https://github.com/ghskyzhou/Java-Chat-Rooms-by-Sky/blob/main/img/SearchTest.png?raw=true" alt="SearchTest" width="250">
+<img src="https://img.z4a.net/images/2025/01/16/ClientTest.png" alt="ClientTest" width="300">
+<img src="https://img.z4a.net/images/2025/01/16/SearchTest.png" alt="SearchTest" width="250">
 
 ---
   ### Thank [Jake](https://github.com/littlestarjake) and  [SRQ](https://github.com/SRQhuajiGabaxi) for testing the code!
